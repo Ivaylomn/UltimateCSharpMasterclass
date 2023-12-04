@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsAbsoluteOfSumMethod"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInterpolationFormatDate", "StringInterpolationFormatDate\StringInterpolationFormatDate.csproj", "{CED8D80E-8D2F-4CE4-BB6B-30C7450C2930}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertPointsToGrade", "ConvertPointsToGrade\ConvertPointsToGrade.csproj", "{0CDD93B1-64CC-4E81-A54E-FCBCF5092C75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertPointsToGrade", "ConvertPointsToGrade\ConvertPointsToGrade.csproj", "{0CDD93B1-64CC-4E81-A54E-FCBCF5092C75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchStatementDescribeDay", "SwitchStatementDescribeDay\SwitchStatementDescribeDay.csproj", "{242728EC-7F99-4F01-9DE2-F318F01F768A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0CDD93B1-64CC-4E81-A54E-FCBCF5092C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CDD93B1-64CC-4E81-A54E-FCBCF5092C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CDD93B1-64CC-4E81-A54E-FCBCF5092C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242728EC-7F99-4F01-9DE2-F318F01F768A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242728EC-7F99-4F01-9DE2-F318F01F768A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242728EC-7F99-4F01-9DE2-F318F01F768A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242728EC-7F99-4F01-9DE2-F318F01F768A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
