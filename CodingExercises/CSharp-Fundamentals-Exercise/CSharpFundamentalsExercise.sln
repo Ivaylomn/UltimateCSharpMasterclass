@@ -23,6 +23,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileLoopRepeatCharacter"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopFactorial", "ForLoopFactorial\ForLoopFactorial.csproj", "{A6DBF643-887D-496F-BF71-5EAAD574F238}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays01BuildHelloString", "Arrays01BuildHelloString\Arrays01BuildHelloString.csproj", "{A608BA62-F6BA-425E-A867-C4AA5998597A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays02IsWordPresentInColection", "Arrays02IsWordPresentInColection\Arrays02IsWordPresentInColection.csproj", "{E1F51F76-CDC9-4886-A18F-4698AF028F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalArraysFindMaxValue", "MultiDimensionalArraysFindMaxValue\MultiDimensionalArraysFindMaxValue.csproj", "{34ED441E-0B0F-4E3A-AC74-A0465F4305DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachLoopIsAnyWordLongerThan", "ForeachLoopIsAnyWordLongerThan\ForeachLoopIsAnyWordLongerThan.csproj", "{A71581E3-E1AA-449D-801B-CCBC1368CD8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListGetOnlyUpperCaseWord", "ListGetOnlyUpperCaseWord\ListGetOnlyUpperCaseWord.csproj", "{892376F3-F944-4C07-88C8-86C37377915F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +79,26 @@ Global
 		{A6DBF643-887D-496F-BF71-5EAAD574F238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6DBF643-887D-496F-BF71-5EAAD574F238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6DBF643-887D-496F-BF71-5EAAD574F238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A608BA62-F6BA-425E-A867-C4AA5998597A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A608BA62-F6BA-425E-A867-C4AA5998597A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A608BA62-F6BA-425E-A867-C4AA5998597A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A608BA62-F6BA-425E-A867-C4AA5998597A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F51F76-CDC9-4886-A18F-4698AF028F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F51F76-CDC9-4886-A18F-4698AF028F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F51F76-CDC9-4886-A18F-4698AF028F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F51F76-CDC9-4886-A18F-4698AF028F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34ED441E-0B0F-4E3A-AC74-A0465F4305DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34ED441E-0B0F-4E3A-AC74-A0465F4305DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34ED441E-0B0F-4E3A-AC74-A0465F4305DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34ED441E-0B0F-4E3A-AC74-A0465F4305DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71581E3-E1AA-449D-801B-CCBC1368CD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71581E3-E1AA-449D-801B-CCBC1368CD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71581E3-E1AA-449D-801B-CCBC1368CD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71581E3-E1AA-449D-801B-CCBC1368CD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892376F3-F944-4C07-88C8-86C37377915F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892376F3-F944-4C07-88C8-86C37377915F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892376F3-F944-4C07-88C8-86C37377915F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892376F3-F944-4C07-88C8-86C37377915F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
