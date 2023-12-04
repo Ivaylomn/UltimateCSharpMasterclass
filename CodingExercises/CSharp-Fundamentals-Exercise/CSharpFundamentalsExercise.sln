@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElseConditionalStatement"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsAbsoluteOfSumMethod", "Methods-AbsoluteOfSumMethod\MethodsAbsoluteOfSumMethod.csproj", "{514AA5B3-A4C1-4125-8926-6A575D8A38B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolationFormatDate", "StringInterpolationFormatDate\StringInterpolationFormatDate.csproj", "{CED8D80E-8D2F-4CE4-BB6B-30C7450C2930}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{514AA5B3-A4C1-4125-8926-6A575D8A38B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{514AA5B3-A4C1-4125-8926-6A575D8A38B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{514AA5B3-A4C1-4125-8926-6A575D8A38B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED8D80E-8D2F-4CE4-BB6B-30C7450C2930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED8D80E-8D2F-4CE4-BB6B-30C7450C2930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED8D80E-8D2F-4CE4-BB6B-30C7450C2930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED8D80E-8D2F-4CE4-BB6B-30C7450C2930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
